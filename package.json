@@ -11,7 +11,7 @@
   "author": "Brad Isbell <bradisbell@fb.com>",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "ws": "^2.1.0"
   }
 }
